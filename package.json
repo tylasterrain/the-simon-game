@@ -1,0 +1,25 @@
+{
+  "name": "simon-game-challenge",
+  "version": "1.0.0",
+  "description": "Simon is a 1 player memory game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tylasterrain/the-simon-game.git"
+  },
+  "keywords": [
+    "simon-game",
+    "1-player",
+    "memory",
+    "game"
+  ],
+  "author": "Tyla Ordman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tylasterrain/the-simon-game/issues"
+  },
+  "homepage": "https://github.com/tylasterrain/the-simon-game#readme"
+}
